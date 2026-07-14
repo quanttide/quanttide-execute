@@ -7,3 +7,6 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-execution-management.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-execution-management.git
