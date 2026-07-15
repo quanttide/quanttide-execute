@@ -24,7 +24,6 @@ description: 从量潮执行日志（journal）蒸馏出 GTD 清单条目到执�
 - 检查 `data/journal/default/` 和 `data/journal/execution/` 中的新文件（尚未蒸馏过的）
 - 读取新文件内容
 - 同时读取 `data/profile/index.md` 了解当前清单状态
-- 读取 `data/context/gtd-workflow.md` 了解整理模式
 
 ### 2. 提取候选条目
 
