@@ -1,6 +1,6 @@
 ---
 name: execute-distill
-description: 从量潮执行日志（journal）蒸馏出 GTD 清单条目到执行档案（profile）。读取 default/execution 日志，与现有 profile/index.md 比对，输出结构化变更提案供用户确认。仅用于 quanttide-execute 领域。
+description: 从量潮执行日志（journal）蒸馏出 GTD 清单条目到执行档案（profile）。读取 default/execution 日志，与现有 profile/index.md 比对，输出结构化变更提案供用户确认。仅用于 quanttide-execute 领域。触发条件：用户 pull journal 后要求蒸馏/记录/提炼，或主动要求从 journal 更新 GTD 清单。
 ---
 
 # execute-distill
