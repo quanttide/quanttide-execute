@@ -19,3 +19,7 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-execution-management.git
+
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-execution-management.git
