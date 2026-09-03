@@ -27,3 +27,6 @@
 [submodule "data/roadmap"]
 	path = data/roadmap
 	url = https://github.com/quanttide/quanttide-roadmap-of-execution-management.git
+[submodule "apps/qtadmin"]
+	path = apps/qtadmin
+	url = https://github.com/quanttide/qtadmin.git
