@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-execute-lab`（仓 quanttide-laboratory-of-execution-management → quanttide-execute-lab）
+
+
 ### 新增
 
 - 注册子模块：`packages/quanttide-execute-toolkit`（执行管理工具箱，quanttide-execute-toolkit）

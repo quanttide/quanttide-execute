@@ -13,9 +13,9 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-execution-management.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-execution-management.git
+[submodule "examples/quanttide-execute-lab"]
+	path = examples/quanttide-execute-lab
+	url = https://github.com/quanttide/quanttide-execute-lab.git
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-execution-management.git
