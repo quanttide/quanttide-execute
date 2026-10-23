@@ -18,7 +18,7 @@
 |------|------|
 | `apps/qtadmin` | 量潮管理后台——执行管理前台 (git submodule → qtadmin) |
 | `apps/qtcloud-execute` | 执行云服务 (git submodule → qtcloud-execute) |
-| `packages/quanttide-execute-toolkit` | 执行管理工具箱 (git submodule → quanttide-execute-toolkit) |
+| `packages/quanttide-execute-toolkit` | 执行管理标准库 (git submodule → quanttide-execute-toolkit) |
 | `examples/quanttide-execute-lab` | 执行管理实验室 (git submodule → quanttide-execute-lab) |
 | `data/context` | 执行管理语境 (git submodule → quanttide-context-of-execution-management) |
 | `data/journal` | 执行管理工作日志 (git submodule → quanttide-journal-of-execution-management) |

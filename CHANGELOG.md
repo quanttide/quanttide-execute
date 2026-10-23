@@ -17,7 +17,7 @@
 
 ### 新增
 
-- 注册子模块：`packages/quanttide-execute-toolkit`（执行管理工具箱，quanttide-execute-toolkit）
+- 注册子模块：`packages/quanttide-execute-toolkit`（执行管理标准库，quanttide-execute-toolkit）
 - 注册子模块：`data/brochure`（执行管理宣传册，quanttide-brochure-of-execution-management）
 - 注册子模块：`data/report`（执行管理报告，quanttide-report-of-execution-management）
 - 注册子模块：`data/library`（执行管理参考，quanttide-library-of-execution-management）
