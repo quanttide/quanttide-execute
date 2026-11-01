@@ -12,6 +12,7 @@
 
 ### 变更
 
+- 执行档案（data/profile）重组：`docs/` + `data/` 合并为 `quanttide-tech/`，删除 `data/tasks.json`，新增 `quanttide-alliance/`（qtrecurit、qtcrowd）；清理 insight 文档与 fc.tf 中对 `data/tasks.json` 的旧引用
 - 实验室子模块改名：`examples/default` → `examples/quanttide-execute-lab`（仓 quanttide-laboratory-of-execution-management → quanttide-execute-lab）
 
 
